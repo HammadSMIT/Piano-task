@@ -1,0 +1,78 @@
+#flex{
+    color: orange;
+    font-size: 60px;
+    margin: 2px;
+    
+}
+
+h1{
+    margin: 1px;
+    padding: 1px;
+    font-family: 'Martian Mono', monospace;
+    font-weight: bold;
+}
+
+#P{
+    font-size: 20px;
+    margin: 2px;
+    font-weight: bold;
+
+}
+
+.Home{
+    
+    margin: 100px;
+    
+    
+    
+}
+#kkk{
+    color: orange;
+    margin-right: 100px;
+}
+
+nav{
+    font-size: 20px;
+    border-top: 3px solid black;
+    border-top-style: double ;
+    border-bottom: 3px solid black;
+    border-bottom-style:double ;
+    font-weight: bold;
+    padding: 10px;
+    margin: auto;
+
+
+}
+
+p>img{
+    width: 350px;
+    margin-top: -70px ;
+    margin-right: -10px;
+    margin-left: -10px;
+    
+    
+}
+
+
+#Lorem {
+    font-weight: bolder;
+    
+}
+
+.Nav-menu {
+    
+    margin-left: 100px;
+
+}
+
+.Main {
+    width: 50%;
+}
+
+
+
+
+
+
+
+
